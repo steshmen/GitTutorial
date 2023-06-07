@@ -26,8 +26,6 @@ git branch -a - показуємо список гілок на компютер
 
 git branch -d branchName - удаляет ветку локально
 
-git push origin --delete branchName удаляет ветку удаленно
-
 git fetch - отримуємо зміни з сайту github
 
 git stash - зберігаємо не збережені зміни в файлах і кладемо їх в буфер обміну
